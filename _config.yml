@@ -21,7 +21,7 @@ repository               : "Miancang/Miancang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.jpg"
+  avatar           : "Photo.jpg"
   name             : "Xingzhi Huang"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
